@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Archived.** This is the Hypercerts fork of [Chainsauce](https://github.com/boudra/chainsauce), an Ethereum indexing library. It was published as `@hypercerts-org/chainsauce` for the Hypercerts v1 indexer, and is no longer maintained. For the library itself, see [boudra/chainsauce](https://github.com/boudra/chainsauce). Hypercerts has reached v2, and the v1 app has been retired: see [hypercerts.org/v1-retired](https://hypercerts.org/v1-retired).
+
 <h1 align="center">
 <strong>Chainsauce 💃</strong>
 </h1>
